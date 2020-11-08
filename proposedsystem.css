@@ -1,0 +1,39 @@
+.centers{
+    align-items: center;
+    margin-left: 333 ;
+}
+.indent20{
+    margin-left: 20px;
+}
+.key1{
+    color: rgb(14, 126, 201);
+}
+.key2{
+    color: rgb(3, 177, 3);
+}
+.key3{
+    color: rgb(243, 170, 87);
+}
+.center_text{
+    text-align: center;
+}
+.width16{
+    width: 16%;
+}
+.width50{
+    width: 50%;
+}
+.center{
+    align-items: center;
+    margin: auto;
+}
+.width{
+    width: 50%;
+}
+.centering{
+    align-content: center;
+    padding: 20px;
+}
+.margin_right{
+    margin-right: 10px;
+}
