@@ -1,3 +1,6 @@
+html{
+  scroll-behavior: smooth;
+}
 #headercss {
     padding: 30px;
 }
