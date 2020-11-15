@@ -1,0 +1,18 @@
+.containera{
+    background-color: red;
+    width: 100%;
+  }
+  .containera img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+  }
+  .flex-box-container-1 img{
+    width: 100%;
+    padding: 20px;
+  }
+  .ro{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+  }
